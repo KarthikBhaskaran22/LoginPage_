@@ -1,5 +1,3 @@
-Login Page
+Login Page using CSS and HTML
 
-# ezybill-leadz-HTML_CSS
-
-https://karthikbhaskaran22.github.io/ezybill-leadz/
+https://karthikbhaskaran22.github.io/LoginPage_/
